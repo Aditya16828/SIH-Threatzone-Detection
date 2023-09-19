@@ -17,3 +17,4 @@
 
 
 ## Finding the final impact of it on the various geographic locations in its vicinity
+##Generative AI for Emergency Response Plans: This feature uses generative AI to automatically generate detailed emergency response plans and procedures based on the threat level and facility layout. This can save time and improve the effectiveness of emergency response efforts.
